@@ -9,9 +9,9 @@ api_key2 = os.getenv("GENAI_API_KEY_2")
 api_key3 = os.getenv("GENAI_API_KEY_3")
 
 API_KEYS  = [
-    {"key": "AIzaSyDXqx6z5RHA15DPB98vneln0ZNQepgaAwA", "req_timestamps": []},
-     {"key": "AIzaSyAbGmx90hmHwxyGYTLhbvonoVAzGW35UUo", "req_timestamps": []},
-     {"key": "AIzaSyBWUojYC5ZfhMJ0bwF8FzV5tNM8NfR8CAI", "req_timestamps": []}
+    {"key": "AIzaSyDJ0nMIz6763uBOXaQD0nymcsrhb25LTDM", "req_timestamps": []},
+     {"key": "AIzaSyAj2WC8ILte1wBRbOPHoGd4Dhg8SWVmwdk", "req_timestamps": []},
+     {"key": "AIzaSyBkFvHmQ_-OgdDQPDLTdaSf4DQvbQGsO7Q", "req_timestamps": []}
 ]
 
 for api_key in [api_key1, api_key2, api_key3]:
